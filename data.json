@@ -3,60 +3,70 @@
     "nama": "Alight Motion",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787680652/logo.jpg",
     "link": "https://sfile.co/1yomo8UFkuI",
-    "up": "25-08-2026"
+    "up": "25-08-2026",
+    "kategori": "editing"
   },
   {
     "nama": "Melolo",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787685886/melolo-short-dramas-reels-150x150.webp",
     "link": "https://sfile.co/XBq67p08YwY",
-    "up": "26-08-2026"
+    "up": "26-08-2026",
+    "kategori": "streaming"
   },
   {
     "nama": "Utool",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787686203/ai-video-enhancer-utool-150x150.webp",
     "link": "https://sfile.co/tJXvHxsQvEc",
-    "up": "24-08-2026"
+    "up": "24-08-2026",
+    "kategori": "editing"
   },
   {
     "nama": "BitTV",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787686347/BitTV-MOD-APK.png",
     "link": "https://sfile.co/AKkD5hWR6VM",
-    "up": "23-08-2026"
+    "up": "23-08-2026",
+    "kategori": "streaming"
   },
   {
     "nama": "DramaBox",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787686747/dramabox-stream-drama-shorts-150x150.webp",
     "link": "https://safefileku.com/download/4Mz7cxBDRT3wtwaq",
-    "up": "23-08-2026"
+    "up": "23-08-2026",
+    "kategori": "streaming"
   },
   {
     "nama": "Spotify Gold",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787688710/d76f75e81d13fcb3756161cb3b12481d.jpg",
     "link": "https://sfile.co/xO6jD20eqVW",
-    "up": "23-08-2026"
+    "up": "23-08-2026",
+    "kategori": "music"
   },
   {
     "nama": "Stiker.ly",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787690875/sticker-ly-sticker-maker-150x150.png",
     "link": "https://sfile.co/gTX87O77lNW",
-    "up": "26-08-2026"
+    "up": "26-08-2026",
+    "kategori": "tools"
   },
   {
     "nama": "MovieBox",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787691860/cropped-moviebox-icon.webp",
     "link": "https://sfile.co/dDvgG0xCTg5",
-    "up": "25-08-2026"
+    "up": "25-08-2026",
+    "kategori": "streaming"
   },
   {
     "nama": "Wink",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787692757/8bad1b71d4c0265be8117ac3c0aba558ee4ab327bcee0f6ad11b935eef67b1a7_200.jpg",
     "link": "https://sfile.co/yXW9NKTuBr7",
-    "up": "25-07-2026"
+    "up": "25-07-2026",
+    "kategori": "editing"
   },
   {
     "nama": "Mikunime",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787699367/mikunime-nonton-anime-logo.webp",
     "link": "https://sfile.co/8npnKahJid0",
-    "up": "18-08-2026"
+    "up": "18-08-2026",
+    "kategori": "anime"
   }
 ]
