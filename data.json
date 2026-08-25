@@ -1,27 +1,26 @@
 [
     {
-        "title": "Mobile Legends: Bang Bang",
-        "desc": "v1.8.44 • Radar Hack & All Skin Unlocked",
-        "icon": "https://via.placeholder.com/64",
+        "title": "Mobile Legends",
+        "desc": "v1.8.44 • Radar & Skin Unlocked",
+        "icon": "https://via.placeholder.com/48",
         "link": "#"
     },
     {
-        "title": "Spotify Premium",
-        "desc": "v8.9.10 • No Ads, Extreme Audio Quality",
-        "icon": "https://via.placeholder.com/64",
+        "title": "Spotify",
+        "desc": "v8.9.10 • No Ads, Premium",
+        "icon": "https://via.placeholder.com/48",
         "link": "#"
     },
     {
-        "title": "CapCut Video Editor",
-        "desc": "v11.2.0 • Pro Features Unlocked, No Watermark",
-        "icon": "https://via.placeholder.com/64",
+        "title": "CapCut",
+        "desc": "v11.2.0 • Pro Unlocked",
+        "icon": "https://via.placeholder.com/48",
         "link": "#"
     },
     {
         "title": "Subway Surfers",
-        "desc": "v3.24.0 • Unlimited Coins & Keys",
-        "icon": "https://via.placeholder.com/64",
+        "desc": "v3.24.0 • Unlimited Coins",
+        "icon": "https://via.placeholder.com/48",
         "link": "#"
     }
 ]
-
