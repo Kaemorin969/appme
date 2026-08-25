@@ -1,22 +1,26 @@
 [
   {
-    "nama": "Alight Motion Mod",
+    "nama": "Alight Motion",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787680652/logo.jpg",
-    "link": "https://sfile.co/1yomo8UFkuI"
+    "link": "https://sfile.co/1yomo8UFkuI",
+    "up": "01-10-2026"
   },
   {
     "nama": "Mobile Legends Mod",
     "logo": "https://i.imgur.com/example2.png",
-    "link": "https://example.com/download/ml-mod"
+    "link": "https://example.com/download/ml-mod",
+    "up": "01-10-2026"
   },
   {
     "nama": "CapCut Pro Unlocked",
     "logo": "https://i.imgur.com/example3.png",
-    "link": "https://example.com/download/capcut-pro"
+    "link": "https://example.com/download/capcut-pro",
+    "up": "01-10-2026"
   },
   {
     "nama": "Roblox Mod Menu",
     "logo": "https://i.imgur.com/example4.png",
-    "link": "https://example.com/download/roblox-mod"
+    "link": "https://example.com/download/roblox-mod",
+    "up": "05-10-2026"
   }
 ]
