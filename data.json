@@ -1,34 +1,22 @@
 [
   {
-    "name": "Free Fire Mod Menu",
-    "description": "Mod menu dengan fitur aimbot, wallhack, dan unlocked skin.",
-    "icon": "https://i.imgur.com/example1.png",
-    "version": "1.100.1",
-    "size": "550 MB",
+    "nama": "Free Fire Mod Menu",
+    "logo": "https://i.imgur.com/example1.png",
     "link": "https://example.com/download/ff-mod"
   },
   {
-    "name": "Mobile Legends Unlimited Diamonds",
-    "description": "Versi modifikasi dengan fitur maphack dan unlock all skin.",
-    "icon": "https://i.imgur.com/example2.png",
-    "version": "1.8.8",
-    "size": "150 MB",
+    "nama": "Mobile Legends Mod",
+    "logo": "https://i.imgur.com/example2.png",
     "link": "https://example.com/download/ml-mod"
   },
   {
-    "name": "CapCut Pro Unlocked",
-    "description": "Bebas watermark, semua efek premium dan template terbuka.",
-    "icon": "https://i.imgur.com/example3.png",
-    "version": "11.2.0",
-    "size": "95 MB",
+    "nama": "CapCut Pro Unlocked",
+    "logo": "https://i.imgur.com/example3.png",
     "link": "https://example.com/download/capcut-pro"
   },
   {
-    "name": "Roblox Mod Menu",
-    "description": "Fitur tambahan speed hack, fly, dan wallhack khusus game tertentu.",
-    "icon": "https://i.imgur.com/example4.png",
-    "version": "2.620",
-    "size": "140 MB",
+    "nama": "Roblox Mod Menu",
+    "logo": "https://i.imgur.com/example4.png",
     "link": "https://example.com/download/roblox-mod"
   }
 ]
