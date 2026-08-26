@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Bstation",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787778874/bilibili-150x150.png",
+    "link": "https://sfile.co/GfAtZkgpnGI",
+    "up": "27-08-2026",
+    "kategori": "streaming"
+  },
+  {
+    "nama": "Shinigami",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787778323/8216503555b92f6a0eb45d24c055b1d007824726d98529100fe791e9559d8a96_200.jpg",
+    "link": "https://sfile.co/34pFdzc40I7",
+    "up": "27-08-2026",
+    "kategori": "komik"
+  },
+  {
+    "nama": "Design KIT",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787778017/unnamed_1.webp",
+    "link": "https://sfile.co/cp00TGkL8Mn",
+    "up": "27-08-2026",
+    "kategori": "editing"
+  },
+  {
     "nama": "Temp Mail",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787710335/unnamed-2025-08-26t011845-281-150x150.webp",
     "link": "https://sfile.co/TGx3ELUOjkj",
