@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Temp Mail",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787710335/unnamed-2025-08-26t011845-281-150x150.webp",
+    "link": "https://sfile.co/TGx3ELUOjkj",
+    "up": "5-08-2026",
+    "kategori": "tools"
+  },
+  {
+    "nama": "CinemaID",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787710171/1006093618-150x150.png",
+    "link": "https://sfile.co/mikzUdpcTN6",
+    "up": "5-08-2026",
+    "kategori": "streaming"
+  },
+  {
     "nama": "KomikID",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787709109/komikid-baca-komik-logo.webp",
     "link": "https://sfile.co/l9VoMdKbZVs",
