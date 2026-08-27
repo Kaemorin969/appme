@@ -1,8 +1,36 @@
 [
   {
+    "nama": "Remini",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787815774/remini-ai-photo-enhancer-150x150.webp",
+    "link": "https://sfile.co/CAf2SRa7nUl",
+    "up": "22-08-2026",
+    "kategori": "editing"
+  },
+  {
+    "nama": "WEBTOON",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787815215/webtoon-150x150.webp",
+    "link": "https://sfile.co/MnFOllQhv4a",
+    "up": "19-08-2026",
+    "kategori": "komik"
+  },
+  {
+    "nama": "SoundCloud",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787814653/unnamed-34-150x150.webp",
+    "link": "https://sfile.co/gdRaTsqXjKp",
+    "up": "25-08-2026",
+    "kategori": "music"
+  },
+  {
+    "nama": "Spotify",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787811188/spotify-x-150x150.jpg",
+    "link": "https://sfile.co/v1W8UNEI4n0",
+    "up": "27-08-2026",
+    "kategori": "music"
+  },
+  {
     "nama": "Bstation",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787778874/bilibili-150x150.png",
-    "link": "https://sfile.co/1Leu2OcAUv6",
+    "link": "https://sfile.co/GfAtZkgpnGI",
     "up": "15-08-2026",
     "kategori": "streaming"
   },
