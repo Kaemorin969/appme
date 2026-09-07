@@ -1,16 +1,100 @@
 [
   {
-    "nama": "Anime TV",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788791484/logo%20app/m5btsd44hnchmwzdm0jw.png",
-    "link": "https://sfile.co/gHNR8POj6yo",
-    "up": "07-09-2026",
+    "nama": "Animok",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788699050/logo%20app/tzrzvyxsugag8pb10xdj.webp",
+    "link": "https://sfile.co/EDFptGnJIBI",
+    "up": "06-09-2026",
     "kategori": "streaming"
+  },
+  {
+    "nama": "Nakanimendo",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788679016/logo%20app/rb7vjbka2fkfybmnoyvi.webp",
+    "link": "https://sfile.co/6HOD6yTrnYT",
+    "up": "06-09-2026",
+    "kategori": "streaming"
+  },
+  {
+    "nama": "Moviebox",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787691860/cropped-moviebox-icon.webp",
+    "link": "https://sfile.co/uvxittQYjhF",
+    "up": "03-09-2026",
+    "kategori": "streaming"
+  },
+  {
+    "nama": "Kiryuu",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788360620/logo%20app/ag4gte9zbb6ojlqtvjxm.webp",
+    "link": "https://sfile.co/3mAy0GQknat",
+    "up": "02-09-2026",
+    "kategori": "komik"
+  },
+  {
+    "nama": "Picsart",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788360288/logo%20app/ux0ajrm97oyeils6clht.jpg",
+    "link": "https://sfile.co/y4hrbzySRbk",
+    "up": "01-09-2026",
+    "kategori": "editing"
+  },
+  {
+    "nama": "MangaGo",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788360045/logo%20app/q2c2hcoihgzvpx4jtgth.webp",
+    "link": "https://sfile.co/7pZxj4jokMN",
+    "up": "06-09-2026",
+    "kategori": "komik"
+  },
+  {
+    "nama": "AnibiPlay",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787897505/anibi.png",
+    "link": "https://sfile.co/Dqipo8D4WWQ",
+    "up": "28-08-2026",
+    "kategori": "streaming"
+  },
+  {
+    "nama": "CloudStream",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787865741/cloudstream-mod-apk.webp",
+    "link": "https://sfile.co/TCpC4k2hZsp",
+    "up": "26-08-2026",
+    "kategori": "streaming"
+  },
+  {
+    "nama": "Meitu",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787865241/Meitu.webp",
+    "link": "https://safefileku.com/download/9j2QfmyojRbTMbm2",
+    "up": "26-08-2026",
+    "kategori": "editing"
+  },
+  {
+    "nama": "Remini",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787815774/remini-ai-photo-enhancer-150x150.webp",
+    "link": "https://sfile.co/CAf2SRa7nUl",
+    "up": "22-08-2026",
+    "kategori": "editing"
+  },
+  {
+    "nama": "WEBTOON",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787815215/webtoon-150x150.webp",
+    "link": "https://sfile.co/MnFOllQhv4a",
+    "up": "19-08-2026",
+    "kategori": "komik"
+  },
+  {
+    "nama": "SoundCloud",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787814653/unnamed-34-150x150.webp",
+    "link": "https://sfile.co/gdRaTsqXjKp",
+    "up": "25-08-2026",
+    "kategori": "music"
+  },
+  {
+    "nama": "Spotify",
+    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787811188/spotify-x-150x150.jpg",
+    "link": "https://sfile.co/v1W8UNEI4n0",
+    "up": "27-08-2026",
+    "kategori": "music"
   },
   {
     "nama": "Bstation",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787778874/bilibili-150x150.png",
     "link": "https://sfile.co/GfAtZkgpnGI",
-    "up": "27-08-2026",
+    "up": "15-08-2026",
     "kategori": "streaming"
   },
   {
@@ -98,10 +182,10 @@
     "kategori": "tools"
   },
   {
-    "nama": "MovieBox",
+    "nama": "MovieBoxTV",
     "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787691860/cropped-moviebox-icon.webp",
-    "link": "https://sfile.co/dDvgG0xCTg5",
-    "up": "25-08-2026",
+    "link": "https://sfile.co/wV8L3pcyYl3",
+    "up": "30-08-2026",
     "kategori": "streaming"
   },
   {
