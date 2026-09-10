@@ -1,18 +1,18 @@
 {
-  "whatsapp": "6281234567890",
+  "whatsapp": "6285797345160",
   "message": "Halo, saya ingin membeli aplikasi Premium: {app}",
   "apps": [
     {
-      "nama": "Spotify Premium",
-      "logo": "https://example.com/spotify.png",
+      "nama": "Web2App",
+      "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789072065/logo%20app/jayogoplwuzd6vmkgfev.png",
       "harga": "Rp 15.000",
-      "deskripsi": "Premium selama 1 bulan"
+      "deskripsi": "unlimited create wab2apk dll"
     },
     {
-      "nama": "Netflix Premium",
-      "logo": "https://example.com/netflix.png",
+      "nama": "Am premium Reseller",
+      "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787680652/logo.jpg",
       "harga": "Rp 25.000",
-      "deskripsi": "Premium selama 1 bulan"
+      "deskripsi": "Bisa jual am prem"
     }
   ]
 }
