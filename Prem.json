@@ -1,1 +1,18 @@
-
+{
+  "whatsapp": "6281234567890",
+  "message": "Halo, saya ingin membeli aplikasi Premium: {app}",
+  "apps": [
+    {
+      "nama": "Spotify Premium",
+      "logo": "https://example.com/spotify.png",
+      "harga": "Rp 15.000",
+      "deskripsi": "Premium selama 1 bulan"
+    },
+    {
+      "nama": "Netflix Premium",
+      "logo": "https://example.com/netflix.png",
+      "harga": "Rp 25.000",
+      "deskripsi": "Premium selama 1 bulan"
+    }
+  ]
+}
