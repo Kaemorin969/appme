@@ -1,1 +1,21 @@
-tes
+[
+  {
+    "app_id": "video-compressor-panda",
+    "banner_apk": "https://res.cloudinary.com/orqpplhj/image/upload/v1789472482/banner/panda_banner.webp",
+    "deskripsi_apk": "Video Compressor Panda adalah aplikasi terbaik untuk memperkecil ukuran video tanpa menurunkan kualitas secara drastis. Sangat cocok untuk menghemat memori penyimpanan handphone atau saat ingin mengirim video lewat WhatsApp.",
+    "ss_apk": [
+      "https://res.cloudinary.com/orqpplhj/image/upload/v1789472482/ss/panda_ss1.webp",
+      "https://res.cloudinary.com/orqpplhj/image/upload/v1789472482/ss/panda_ss2.webp",
+      "https://res.cloudinary.com/orqpplhj/image/upload/v1789472482/ss/panda_ss3.webp"
+    ]
+  },
+  {
+    "app_id": "alight-motion-pro",
+    "banner_apk": "https://res.cloudinary.com/orqpplhj/image/upload/v1788328177/banner/am_banner.webp",
+    "deskripsi_apk": "Alight Motion adalah aplikasi editor video dan motion graphics profesional pertama untuk perangkat seluler. Nikmati fitur premium tanpa watermark, efek visual melimpah, dan keyframe animation terlengkap.",
+    "ss_apk": [
+      "https://res.cloudinary.com/orqpplhj/image/upload/v1788328177/ss/am_ss1.webp",
+      "https://res.cloudinary.com/orqpplhj/image/upload/v1788328177/ss/am_ss2.webp"
+    ]
+  }
+]
