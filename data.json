@@ -1,338 +1,370 @@
-[
-  {
-    "nama": "Video Compressor Panda",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789472482/logo%20app/mm1vcnqv93drjs6emncd.webp",
-    "link": "https://sfile.co/xNqqytjS0zj",
-    "up": "15-09-2026",
-    "kategori": "editing"
+{
+  "video-compressor-panda": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2022/06/video-compressor-panda-resize-compress-video-mod.png",
+    "deskripsi_apk": "Video Compressor Panda adalah aplikasi kompresi dan pengubah ukuran video yang mendukung format mp4, avi, mkv, dan mov. Aplikasi ini mampu memperkecil ukuran video tanpa menurunkan kualitas secara drastis, serta menyediakan preset ukuran untuk berbagai platform seperti WhatsApp, Instagram, Facebook, dan email.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2022/06/video-compressor-panda-resizer-1.png",
+      "https://liteapks.com/wp-content/uploads/2022/06/video-compressor-panda-resizer-2.png",
+      "https://liteapks.com/wp-content/uploads/2022/06/video-compressor-panda-resizer-3.png",
+      "https://liteapks.com/wp-content/uploads/2022/06/video-compressor-panda-resizer-4.png",
+      "https://liteapks.com/wp-content/uploads/2022/06/video-compressor-panda-resizer-5.png",
+      "https://liteapks.com/wp-content/uploads/2022/06/video-compressor-panda-resizer-6.png"
+    ]
   },
-  {
-    "nama": "Wiki : Asian Drama & Movie",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789472258/logo%20app/awwatgcghqkutoyr7jym.webp",
-    "link": "https://sfile.co/Wi1W0JUje7R",
-    "up": "15-09-2026",
-    "kategori": "streaming"
+  "wiki-asian-drama-movie": {
+    "banner_apk": "",
+    "deskripsi_apk": "Wiki (Viki) : Asian Drama & Movie adalah platform streaming yang berfokus pada drama dan film Asia, mencakup drama Korea, Tiongkok, Jepang, Thailand, dan Taiwan. Dilengkapi subtitle lebih dari 150 bahasa serta opsi Viki Pass untuk pengalaman HD tanpa iklan.",
+    "ss_apk": []
   },
-  {
-    "nama": "Vanced Tube",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789378046/logo%20app/q2flwl6pfyc0wuil1zmo.webp",
-    "link": "https://sfile.co/OzEdZJoCnWw",
-    "up": "14-09-2026",
-    "kategori": "streaming"
+  "vanced-tube": {
+    "banner_apk": "",
+    "deskripsi_apk": "Vanced Tube adalah pemutar media lokal yang ringan dengan dukungan background play, picture-in-picture, equalizer, transfer via Wi-Fi, serta editor video bawaan untuk kompresi, pemotongan, perubahan kecepatan, dan ekstraksi audio. Dilengkapi fitur subtitle dan private vault untuk menyembunyikan video pribadi.",
+    "ss_apk": []
   },
-  {
-    "nama": "fomz",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789148593/logo%20app/p0jax2dda8u5f3wy1krz.png",
-    "link": "https://sfile.co/rk0hsY0u3b4",
-    "up": "12-09-2026",
-    "kategori": "editing"
+  "fomz": {
+    "banner_apk": "",
+    "deskripsi_apk": "fomz adalah aplikasi kamera bergaya retro yang menghadirkan beragam filter film klasik, efek kebocoran cahaya, butiran film, dan cap waktu. Cocok untuk menghasilkan foto bernuansa analog dengan sentuhan artistik dan story telling.",
+    "ss_apk": []
   },
-  {
-    "nama": "FotMob Pro",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789148185/logo%20app/bgadmgwulgyf8zauaror.webp",
-    "link": "https://sfile.co/95QdLeS42cN",
-    "up": "12-09-2026",
-    "kategori": "sport"
+  "fotmob-pro": {
+    "banner_apk": "",
+    "deskripsi_apk": "FotMob Pro adalah aplikasi skor dan statistik sepak bola yang menyajikan hasil pertandingan secara real-time, data statistik lengkap, berita personal, serta fitur mengikuti tim dan pemain favorit. Versi Pro bebas iklan untuk pengalaman tanpa gangguan.",
+    "ss_apk": []
   },
-  {
-    "nama": "AIScore",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789148050/logo%20app/ry6s3ly2henafdowoaje.webp",
-    "link": "https://sfile.co/Dai6DGlqtHI",
-    "up": "12-09-2026",
-    "kategori": "sport"
+  "aiscore": {
+    "banner_apk": "",
+    "deskripsi_apk": "AIScore adalah aplikasi skor olahraga langsung yang mencakup sepak bola, basket, tenis, voli, dan bulu tangkis. Menyediakan skor real-time, live animation, data head-to-head, jadwal pertandingan, dan notifikasi gol instan dalam 28 bahasa.",
+    "ss_apk": []
   },
-  {
-    "nama": "Sofascore",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789147567/logo%20app/vfsm4m2sqi64qfu1ba2i.webp",
-    "link": "https://sfile.co/99b2FRsTiiw",
-    "up": "12-09-2026",
-    "kategori": "sport"
+  "sofascore": {
+    "banner_apk": "",
+    "deskripsi_apk": "Sofascore adalah platform skor dan data olahraga global yang mencakup lebih dari 20 cabang olahraga dan 20.000+ kompetisi. Dilengkapi statistik mendalam, visualisasi data seperti Attack Momentum dan Heatmap, serta komunitas chat langsung antar penggemar.",
+    "ss_apk": []
   },
-  {
-    "nama": "Proton Mail",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789147377/logo%20app/xsfvqgu4itzsqhvaflpi.png",
-    "link": "https://sfile.co/fNWfi85daiK",
-    "up": "12-09-2026",
-    "kategori": "tools"
+  "proton-mail": {
+    "banner_apk": "",
+    "deskripsi_apk": "Proton Mail adalah layanan email terenkripsi end-to-end yang berbasis di Swiss, tanpa iklan dan tidak memindai isi email. Mendukung alias untuk menyembunyikan email asli, proteksi password, migrasi mudah dari penyedia lain, serta terintegrasi dengan kalender dan VPN dari Proton.",
+    "ss_apk": []
   },
-  {
-    "nama": "Video Enhancer Pro",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789147169/logo%20app/iuwujfrknr973s8xua8k.png",
-    "link": "https://sfile.co/0StJMpymFpv",
-    "up": "12-09-2026",
-    "kategori": "tools"
+  "video-enhancer-pro": {
+    "banner_apk": "",
+    "deskripsi_apk": "Video Enhancer Pro adalah aplikasi yang berfungsi untuk meningkatkan kualitas video (HD) secara otomatis. Aplikasi ini mampu memperjelas detail, mempertajam gambar buram, meningkatkan resolusi, serta memperbaiki warna dan kontras video agar tampak lebih jernih dan tajam.",
+    "ss_apk": []
   },
-  {
-    "nama": "vpnify",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789147022/logo%20app/z9jhahzpvvevhlhqomvt.webp",
-    "link": "https://sfile.co/kStugi0GcGd",
-    "up": "12-09-2026",
-    "kategori": "tools"
+  "vpnify": {
+    "banner_apk": "",
+    "deskripsi_apk": "vpnify adalah aplikasi VPN gratis tanpa batas dengan enkripsi tingkat militer, server cepat di berbagai negara, tanpa registrasi, dan koneksi satu klik. Cocok untuk mengakses layanan streaming serta mengamankan koneksi di Wi-Fi publik.",
+    "ss_apk": []
   },
-  {
-    "nama": "VPN Super",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789104382/logo%20app/kfynhy18rfmmnc6tnkak.webp",
-    "link": "https://sfile.co/2vJLLYGcJG5",
-    "up": "9-09-2026",
-    "kategori": "tools"
+  "vpn-super": {
+    "banner_apk": "",
+    "deskripsi_apk": "VPN Super adalah aplikasi VPN gratis dengan bandwidth dan waktu tanpa batas, mendukung split tunneling per aplikasi (Android 5.0+), koneksi satu klik, tanpa registrasi, dan tidak menyimpan log aktivitas pengguna.",
+    "ss_apk": []
   },
-  {
-    "nama": "Terabox",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789104177/logo%20app/f2dafiqim5mmdqyl2zw1.webp",
-    "link": "https://safefileku.com/download/bflzyQRAX6EQYtqp",
-    "up": "8-09-2026",
-    "kategori": "tools"
+  "terabox": {
+    "banner_apk": "",
+    "deskripsi_apk": "Terabox adalah layanan penyimpanan awan dengan ruang gratis hingga 1TB. Mendukung unduhan video, transfer file besar, backup foto otomatis, dan telah digunakan lebih dari 320 juta pengguna di seluruh dunia.",
+    "ss_apk": []
   },
-  {
-    "nama": "Crunchyroll",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789102119/logo%20app/txrpxekzegudd9gdiuoj.webp",
-    "link": "https://sfile.co/Xp8T1AvbrWA",
-    "up": "9-09-2026",
-    "kategori": "streaming"
+  "crunchyroll": {
+    "banner_apk": "",
+    "deskripsi_apk": "Crunchyroll adalah salah satu platform streaming anime terbesar di dunia dengan lebih dari 2.000 judul. Menyediakan pilihan subtitle dan dubbing berbagai bahasa, unduhan offline, tayang simultan anime musiman, video musik, serta akses Crunchyroll Game Vault.",
+    "ss_apk": []
   },
-  {
-    "nama": "Retro Mode – Icon Pack",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789066794/logo%20app/tt7knagkot3bewsht2uz.webp",
-    "link": "https://safefileku.com/download/ayvXoGJsRRTa1DKq",
-    "up": "11-09-2026",
-    "kategori": "personalisasi"
+  "retro-mode-icon-pack": {
+    "banner_apk": "",
+    "deskripsi_apk": "Retro Mode – Icon Pack adalah paket ikon bergaya pixel art yang berisi lebih dari 4.050 ikon, 15 wallpaper, dan 6 widget (jam, tanggal, kalender, dll). Dibuat oleh seniman pixel Moertel dan diperbarui setiap bulan.",
+    "ss_apk": []
   },
-  {
-    "nama": "Nova Launcher",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789066573/logo%20app/bevcojgtftdbar85evwv.webp",
-    "link": "https://safefileku.com/download/SNhVVxW8OY3IC2qX",
-    "up": "11-09-2026",
-    "kategori": "personalisasi"
+  "nova-launcher": {
+    "banner_apk": "",
+    "deskripsi_apk": "Nova Launcher adalah peluncur Android yang sangat dapat dikustomisasi dengan dukungan tema ikon, gestur, pengelompokan folder, penempatan sub-grid, backup & restore, serta sistem pencarian cepat. Telah digunakan lebih dari 50 juta pengguna.",
+    "ss_apk": []
   },
-  {
-    "nama": "Smart Launcher 6",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789064366/logo%20app/nzhpgz2zzvgubdw79atl.webp",
-    "link": "https://safefileku.com/download/QtCS75zL73J1SOM9",
-    "up": "11-09-2026",
-    "kategori": "personalisasi"
+  "smart-launcher-6": {
+    "banner_apk": "",
+    "deskripsi_apk": "Smart Launcher 6 adalah peluncur pintar yang mengelompokkan aplikasi secara otomatis berdasarkan kategori, menyesuaikan warna dengan wallpaper, mendukung operasi satu tangan, dilengkapi widget responsif dan pencarian cepat. Digunakan lebih dari 50 juta pengguna.",
+    "ss_apk": []
   },
-  {
-    "nama": "Winkit",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1789063918/logo%20app/lr1jft0glizuicjw34ns.webp",
-    "link": "https://sfile.co/rUAD51ihh9z",
-    "up": "11-09-2026",
-    "kategori": "editing"
+  "winkit": {
+    "banner_apk": "",
+    "deskripsi_apk": "Winkit adalah alat peningkat video berbasis AI yang menyediakan fitur peningkatan potret, AI repair, upscaling hingga 4K, denoising, koreksi warna, stabilisasi, penghapusan latar belakang, serta efek kreatif AI seperti anime, kartun, dan avatar.",
+    "ss_apk": []
   },
-  {
-    "nama": "Reelshort",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788792905/logo%20app/qio4jig6onvhbt2ffd4g.webp",
-    "link": "https://sfile.co/hmeubgbc4GZ",
-    "up": "07-09-2026",
-    "kategori": "streaming"
+  "reelshort": {
+    "banner_apk": "",
+    "deskripsi_apk": "Reelshort adalah platform streaming drama pendek vertikal eksklusif dengan episode berdurasi sekitar satu menit. Diperbarui setiap hari dengan genre romansa, balas dendam, tragedi, dan lainnya. Pernah diliput oleh TIME dan The New York Times.",
+    "ss_apk": []
   },
-  {
-    "nama": "Anime TV",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788791484/logo%20app/m5btsd44hnchmwzdm0jw.png",
-    "link": "https://sfile.co/WIBpGf1KAw7",
-    "up": "07-09-2026",
-    "kategori": "streaming"
+  "anime-tv": {
+    "banner_apk": "",
+    "deskripsi_apk": "Anime TV adalah aplikasi menonton anime gratis dengan pilihan subtitle dan dubbing, pembaruan harian anime populer, dukungan multi-sumber, dan kualitas HD.",
+    "ss_apk": []
   },
-  {
-    "nama": "Animok",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788699050/logo%20app/tzrzvyxsugag8pb10xdj.webp",
-    "link": "https://sfile.co/EDFptGnJIBI",
-    "up": "06-09-2026",
-    "kategori": "streaming"
+  "animok": {
+    "banner_apk": "",
+    "deskripsi_apk": "Animok adalah aplikasi streaming anime dan donghua yang bebas iklan, gratis, mendukung unduhan, dan menyediakan ribuan judul anime kualitas HD dengan fitur lengkap.",
+    "ss_apk": []
   },
-  {
-    "nama": "Nakanimendo",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788679016/logo%20app/rb7vjbka2fkfybmnoyvi.webp",
-    "link": "https://sfile.co/6HOD6yTrnYT",
-    "up": "06-09-2026",
-    "kategori": "streaming"
+  "nakanimendo": {
+    "banner_apk": "",
+    "deskripsi_apk": "Nakanimendo adalah aplikasi streaming anime dengan koleksi judul lengkap, pembaruan episode terbaru, dan antarmuka sederhana untuk menonton anime favorit secara gratis.",
+    "ss_apk": []
   },
-  {
-    "nama": "Moviebox",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787691860/cropped-moviebox-icon.webp",
-    "link": "https://sfile.co/uvxittQYjhF",
-    "up": "03-09-2026",
-    "kategori": "streaming"
+  "moviebox": {
+    "banner_apk": "",
+    "deskripsi_apk": "Moviebox adalah aplikasi streaming film, serial TV, dan anime gratis dengan koleksi besar, kualitas HD, subtitle multibahasa, serta dukungan unduhan offline.",
+    "ss_apk": []
   },
-  {
-    "nama": "Kiryuu",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788360620/logo%20app/ag4gte9zbb6ojlqtvjxm.webp",
-    "link": "https://sfile.co/3mAy0GQknat",
-    "up": "02-09-2026",
-    "kategori": "komik"
+  "kiryuu": {
+    "banner_apk": "",
+    "deskripsi_apk": "Kiryuu adalah aplikasi baca komik yang menyediakan koleksi manga, manhwa, dan manhua berbahasa Indonesia secara gratis dengan pembaruan chapter rutin dan antarmuka ringan.",
+    "ss_apk": []
   },
-  {
-    "nama": "Picsart",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788360288/logo%20app/ux0ajrm97oyeils6clht.jpg",
-    "link": "https://sfile.co/y4hrbzySRbk",
-    "up": "01-09-2026",
-    "kategori": "editing"
+  "picsart": {
+    "banner_apk": "",
+    "deskripsi_apk": "Picsart adalah aplikasi editor foto dan video serbaguna dengan ribuan filter, stiker, efek AI, alat penghapus objek, serta fitur kolase dan desain grafis untuk kebutuhan media sosial.",
+    "ss_apk": []
   },
-  {
-    "nama": "MangaGo",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1788360045/logo%20app/q2c2hcoihgzvpx4jtgth.webp",
-    "link": "https://sfile.co/7pZxj4jokMN",
-    "up": "06-09-2026",
-    "kategori": "komik"
+  "mangago": {
+    "banner_apk": "",
+    "deskripsi_apk": "MangaGo adalah aplikasi baca komik yang menyediakan koleksi manga, manhwa, dan manhua dari berbagai genre dengan pembaruan chapter berkala dan mode baca nyaman.",
+    "ss_apk": []
   },
-  {
-    "nama": "AnibiPlay",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787897505/anibi.png",
-    "link": "https://sfile.co/Dqipo8D4WWQ",
-    "up": "28-08-2026",
-    "kategori": "streaming"
+  "anibiplay": {
+    "banner_apk": "",
+    "deskripsi_apk": "AnibiPlay adalah aplikasi streaming anime dengan koleksi judul subtitle Indonesia, pembaruan episode terbaru, dan kualitas video jernih untuk ditonton gratis.",
+    "ss_apk": []
   },
-  {
-    "nama": "CloudStream",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787865741/cloudstream-mod-apk.webp",
-    "link": "https://sfile.co/TCpC4k2hZsp",
-    "up": "26-08-2026",
-    "kategori": "streaming"
+  "cloudstream": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2025/12/cloudstream-banner.webp",
+    "deskripsi_apk": "CloudStream adalah aplikasi streaming open-source yang memungkinkan pengguna menonton film, serial TV, dan anime melalui berbagai penyedia sumber yang dapat dipasang sebagai extension, dengan antarmuka ringan dan bebas iklan.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2025/12/cloudstream-1.jpg",
+      "https://liteapks.com/wp-content/uploads/2025/12/cloudstream-2.jpg",
+      "https://liteapks.com/wp-content/uploads/2025/12/cloudstream-3.jpg",
+      "https://liteapks.com/wp-content/uploads/2025/12/cloudstream-4.jpg",
+      "https://liteapks.com/wp-content/uploads/2025/12/cloudstream-5.jpg"
+    ]
   },
-  {
-    "nama": "Meitu",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787865241/Meitu.webp",
-    "link": "https://safefileku.com/download/9j2QfmyojRbTMbm2",
-    "up": "26-08-2026",
-    "kategori": "editing"
+  "meitu": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2022/12/meitu-photo-video-editor-1.jpg",
+    "deskripsi_apk": "Meitu adalah aplikasi edit foto dan video dengan fitur AI beautify, penghapusan objek, penggantian latar belakang, efek kreatif, serta alat retouching profesional untuk hasil foto dan video berkualitas.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2023/07/meitu-7.png",
+      "https://liteapks.com/wp-content/uploads/2023/07/meitu-16png.png",
+      "https://liteapks.com/wp-content/uploads/2023/07/meitu-4.png",
+      "https://liteapks.com/wp-content/uploads/2023/07/meitu-5.png",
+      "https://liteapks.com/wp-content/uploads/2023/07/meitu-3.png",
+      "https://liteapks.com/wp-content/uploads/2023/07/meitu-2.png",
+      "https://liteapks.com/wp-content/uploads/2023/07/meitu-1.png"
+    ]
   },
-  {
-    "nama": "Remini",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787815774/remini-ai-photo-enhancer-150x150.webp",
-    "link": "https://sfile.co/eiDqw9EzH5c",
-    "up": "22-08-2026",
-    "kategori": "editing"
+  "remini": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2022/04/remini-ai-photo-enhancer-1.png",
+    "deskripsi_apk": "Remini adalah aplikasi peningkat kualitas foto berbasis AI yang mampu mempertajam gambar buram, memulihkan foto lama, dan meningkatkan detail wajah hanya dengan satu ketukan.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2024/03/remini-7.png",
+      "https://liteapks.com/wp-content/uploads/2024/03/remini-6.png",
+      "https://liteapks.com/wp-content/uploads/2024/03/remini-5.png",
+      "https://liteapks.com/wp-content/uploads/2024/03/remini-4.png",
+      "https://liteapks.com/wp-content/uploads/2024/03/remini-3.png",
+      "https://liteapks.com/wp-content/uploads/2024/03/remini-2.png"
+    ]
   },
-  {
-    "nama": "WEBTOON",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787815215/webtoon-150x150.webp",
-    "link": "https://sfile.co/MnFOllQhv4a",
-    "up": "19-08-2026",
-    "kategori": "komik"
+  "webtoon": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2022/05/webtoon-1.png",
+    "deskripsi_apk": "WEBTOON adalah platform komik digital vertikal terbesar di dunia dengan ribuan judul original dari berbagai genre, pembaruan harian, dan dapat dibaca gratis langsung dari ponsel.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2022/05/webtoon-3.png",
+      "https://liteapks.com/wp-content/uploads/2022/05/webtoon-4.png",
+      "https://liteapks.com/wp-content/uploads/2022/05/webtoon-5.png",
+      "https://liteapks.com/wp-content/uploads/2022/05/webtoon-6.png",
+      "https://liteapks.com/wp-content/uploads/2022/05/webtoon-7.png"
+    ]
   },
-  {
-    "nama": "SoundCloud",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787814653/unnamed-34-150x150.webp",
-    "link": "https://sfile.co/gdRaTsqXjKp",
-    "up": "25-08-2026",
-    "kategori": "music"
+  "soundcloud": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2023/02/soundcloud-play-music-songs-1.jpg",
+    "deskripsi_apk": "SoundCloud adalah platform musik streaming dan berbagi audio yang memungkinkan musisi mengunggah karya mereka secara bebas, serta pengguna menemukan jutaan lagu, podcast, dan remix dari seluruh dunia.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2023/02/soundcloud-play-music-songs-3.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/02/soundcloud-play-music-songs-7.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/02/soundcloud-play-music-songs-6.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/02/soundcloud-play-music-songs-5.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/02/soundcloud-play-music-songs-4.jpg"
+    ]
   },
-  {
-    "nama": "Spotify",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787811188/spotify-x-150x150.jpg",
-    "link": "https://safefileku.com/download/lUWCC2lFuctDqiHx",
-    "up": "16-09-2026",
-    "kategori": "music"
+  "spotify": {
+    "banner_apk": "",
+    "deskripsi_apk": "Spotify adalah layanan streaming musik dan podcast terbesar di dunia dengan jutaan lagu, playlist kurasi, rekomendasi personal, serta dukungan unduhan offline untuk pengguna premium.",
+    "ss_apk": []
   },
-  {
-    "nama": "Bstation",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787778874/bilibili-150x150.png",
-    "link": "https://sfile.co/GfAtZkgpnGI",
-    "up": "15-08-2026",
-    "kategori": "streaming"
+  "bstation": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2022/12/bilibili-1.jpg",
+    "deskripsi_apk": "Bstation (Bilibili) adalah aplikasi streaming anime, donghua, dan video komunitas dengan koleksi lengkap, subtitle Indonesia, serta fitur unduhan offline dan komentar real-time.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2022/12/bilibili-2.jpg",
+      "https://liteapks.com/wp-content/uploads/2022/12/bilibili-3.jpg",
+      "https://liteapks.com/wp-content/uploads/2022/12/bilibili-4.jpg",
+       "https://liteapks.com/wp-content/uploads/2022/12/bilibili-5.jpg",
+      "https://liteapks.com/wp-content/uploads/2022/12/bilibili-6.jpg",
+      "https://liteapks.com/wp-content/uploads/2022/12/bilibili-7.jpg"
+    ]
   },
-  {
-    "nama": "Shinigami",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787778323/8216503555b92f6a0eb45d24c055b1d007824726d98529100fe791e9559d8a96_200.jpg",
-    "link": "https://sfile.co/34pFdzc40I7",
-    "up": "27-08-2026",
-    "kategori": "komik"
+  "shinigami": {
+    "banner_apk": "",
+    "deskripsi_apk": "Shinigami adalah aplikasi baca komik yang menyediakan koleksi manga, manhwa, dan manhua berbahasa Indonesia secara gratis dengan pembaruan chapter cepat dan antarmuka sederhana.",
+    "ss_apk": [
+      "https://www.nesabamedia.com/apps/wp-content/uploads/2024/01/Shinigami-ID-1.jpeg",
+      "https://www.nesabamedia.com/apps/wp-content/uploads/2024/01/Shinigami-ID-2.jpeg",
+      "https://www.nesabamedia.com/apps/wp-content/uploads/2024/01/Shinigami-ID-3.jpeg",
+      "https://www.nesabamedia.com/apps/wp-content/uploads/2024/01/Shinigami-ID-4.jpeg"
+    ]
   },
-  {
-    "nama": "Design KIT",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787778017/unnamed_1.webp",
-    "link": "https://sfile.co/cp00TGkL8Mn",
-    "up": "27-08-2026",
-    "kategori": "editing"
+  "design-kit": {
+    "banner_apk": "",
+    "deskripsi_apk": "Design KIT adalah aplikasi desain grafis yang menyediakan template, elemen, dan aset kreatif untuk membuat konten visual seperti poster, thumbnail, dan feed media sosial dengan mudah.",
+    "ss_apk": [
+      "https://play-lh.googleusercontent.com/bOpCf4W7quHc4FoxHcvYy0I2BZSB-E0X4iOW3_xO8r0Ru-fDextoOsiiC8SkkzTEvq_k_8wQb_1HTfH3nN9h0Ho=w1052-h592-rw",
+      "https://play-lh.googleusercontent.com/Ix_kOrpVNF2WsWJcAkKZgs_vTg4FtckzZto9mIzeEjYTE7SiTl4upVHQWeLhBT0cuCHrfM7sSepTxOZ9-W_A9g=w1052-h592-rw",
+      "https://play-lh.googleusercontent.com/HnwexMYZ5ADzxLjyipTkJCWPYHnhcDVFho9ssrNSzc3s5PanDIQ0TcUhuSjSOnwxMe-6JBpcThMRkuQmiWQUhA=w1052-h592-rw",
+      "https://play-lh.googleusercontent.com/6MHFoPLdaAogvVgsJ6KrvIpT06UGvCtSlfzVVoQaDrKAX13rQe7IMX6-pnPWyZzxeAzkrc_w4QMv7bBIcjIi=w1052-h592-rw"
+    ]
   },
-  {
-    "nama": "Temp Mail",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787710335/unnamed-2025-08-26t011845-281-150x150.webp",
-    "link": "https://sfile.co/TGx3ELUOjkj",
-    "up": "5-08-2026",
-    "kategori": "tools"
+  "temp-mail": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2022/12/temp-mail-temporary-email-1.jpg",
+    "deskripsi_apk": "Temp Mail adalah aplikasi seluler yang menyediakan alamat email sementara secara instan dan sekali pakai (throwaway email), memungkinkan kamu untuk mendaftar ke berbagai situs web atau aplikasi tanpa perlu menggunakan email pribadi, sehingga kotak masuk utama kamu aman dari spam dan pesan promosi yang tidak diinginkan.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2025/08/unnamed-2025-08-26t011915-851.webp",
+      "https://liteapks.com/wp-content/uploads/2025/08/unnamed-2025-08-26t011920-754.webp",
+      "https://liteapks.com/wp-content/uploads/2025/08/unnamed-2025-08-26t011925-132.webp",
+      "https://liteapks.com/wp-content/uploads/2025/08/unnamed-2025-08-26t011930-139.webp",
+      "https://liteapks.com/wp-content/uploads/2025/08/unnamed-2025-08-26t011934-756.webp"
+    ]
   },
-  {
-    "nama": "CinemaID",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787710171/1006093618-150x150.png",
-    "link": "https://sfile.co/mikzUdpcTN6",
-    "up": "5-08-2026",
-    "kategori": "streaming"
+  "cinemaid": {
+    "banner_apk": "https://modyolo.com/wp-content/uploads/2026/07/ezgif-com-resize-3-2-1.webp",
+    "deskripsi_apk": "CinemaID adalah aplikasi pihak ketiga berbasis Android yang digunakan untuk menonton berbagai pilihan film, serial TV, dan drama secara gratis dengan menyediakan beragam tautan streaming serta koleksi hiburan populer dalam satu platform praktis.",
+    "ss_apk": [
+      "https://i0.wp.com/apkmb.com/wp-content/uploads/2026/05/CinemaID-1.jpg?fit=142%2C300&ssl=1",
+      "https://i0.wp.com/apkmb.com/wp-content/uploads/2026/05/CinemaID-2.jpg?fit=142%2C300&ssl=1",
+      "https://i0.wp.com/apkmb.com/wp-content/uploads/2026/05/CinemaID-3.jpg?fit=142%2C300&ssl=1",
+      "https://i0.wp.com/apkmb.com/wp-content/uploads/2026/05/CinemaID-4.jpg?fit=142%2C300&ssl=1",
+      "https://i0.wp.com/apkmb.com/wp-content/uploads/2026/05/CinemaID-5.jpg?fit=142%2C300&ssl=1"
+    ]
   },
-  {
-    "nama": "KomikID",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787709109/komikid-baca-komik-logo.webp",
-    "link": "https://sfile.co/l9VoMdKbZVs",
-    "up": "15-08-2026",
-    "kategori": "komik"
+  "komikid": {
+    "banner_apk": "https://lh3.googleusercontent.com/iCODmKJBFe7CLWQp05oyykb9x58IgW_W0u6YS7JhkZ28RtDEzVxJCEBnFn2lgt9rehDo6iB87wmzvgxxTrB-XRRg9EkLjurYD3M=h200-rw",
+    "deskripsi_apk": "KomikID adalah aplikasi baca komik digital berbahasa Indonesia yang menyediakan koleksi manga, manhwa, dan manhua lengkap dengan pembaruan chapter rutin serta antarmuka ringan untuk pengalaman membaca nyaman.",
+    "ss_apk": [
+      "https://play-lh.googleusercontent.com/QiVyxkeTFNGOFRFweUxbH3NmRkGngbT3ZTOYiKBVucdHLrC_ucBeIWlNdOWyrkd0lzil=h305",
+      "https://play-lh.googleusercontent.com/nv97tiI6DJSri0iqTYAcA9BEn8SVSKT6iNl3QhSkWboLfXQE7uutTvDnDNbqlsleAg=h305",
+      "https://play-lh.googleusercontent.com/CE2Uil-ShWbDhbJrwmi9IyRdAUluCPfTEpaXL9v7pshcCFUm6Oni5fw2s7FtloVQKKpZ=h305",
+      "https://play-lh.googleusercontent.com/7Qrr4fq-YahTA3meOlJGOXhP48gIyIWFi_62379BlRQXl7GRPXdEw6I4z2VgN2Qlc3w=h305"
+    ]
   },
-  {
-    "nama": "Alight Motion",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787680652/logo.jpg",
-    "link": "https://sfile.co/1yomo8UFkuI",
-    "up": "25-08-2026",
-    "kategori": "editing"
+  "alight-motion": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2022/04/alight-motion-1.png",
+    "deskripsi_apk": "Alight Motion adalah aplikasi editor video dan motion graphics profesional pertama untuk perangkat seluler. Nikmati fitur premium tanpa watermark, efek visual melimpah, dan keyframe animation terlengkap.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2022/04/alight-motion-7.png",
+      "https://liteapks.com/wp-content/uploads/2022/04/alight-motion-6.png",
+      "https://liteapks.com/wp-content/uploads/2022/04/alight-motion-5.png",
+      "https://liteapks.com/wp-content/uploads/2022/04/alight-motion-4.png",
+      "https://liteapks.com/wp-content/uploads/2022/04/alight-motion-3.png",
+      "https://liteapks.com/wp-content/uploads/2022/04/alight-motion-2.png"
+    ]
   },
-  {
-    "nama": "Melolo",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787685886/melolo-short-dramas-reels-150x150.webp",
-    "link": "https://sfile.co/XBq67p08YwY",
-    "up": "26-08-2026",
-    "kategori": "streaming"
+  "melolo": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2026/01/melolo-short-dramas-reels-1.webp",
+    "deskripsi_apk": "Melolo adalah aplikasi streaming drama pendek vertikal gratis dengan koleksi cerita romansa, komedi, dan balas dendam yang diperbarui setiap hari, dirancang untuk ditonton dalam waktu singkat.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2026/01/melolo-short-dramas-reels-2.webp",
+      "https://liteapks.com/wp-content/uploads/2026/01/melolo-short-dramas-reels-3.webp",
+      "https://liteapks.com/wp-content/uploads/2026/01/melolo-short-dramas-reels-4.webp",
+      "https://liteapks.com/wp-content/uploads/2026/01/melolo-short-dramas-reels-5.webp",
+      "https://liteapks.com/wp-content/uploads/2026/01/melolo-short-dramas-reels-6.webp"
+    ]
   },
-  {
-    "nama": "Utool",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787686203/ai-video-enhancer-utool-150x150.webp",
-    "link": "https://sfile.co/tJXvHxsQvEc",
-    "up": "24-08-2026",
-    "kategori": "editing"
+  "utool": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2024/01/ai-video-enhancer-utool-1.webp",
+    "deskripsi_apk": "Utool adalah aplikasi peningkat video berbasis AI yang menyediakan fitur upscaling, perbaikan kualitas, penghapusan noise, serta pemulihan video lama agar tampak lebih jernih dan tajam.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2024/01/ai-video-enhancer-utool-2.webp",
+      "https://liteapks.com/wp-content/uploads/2024/01/ai-video-enhancer-utool-3.webp",
+      "https://liteapks.com/wp-content/uploads/2024/01/ai-video-enhancer-utool-4.webp",
+      "https://liteapks.com/wp-content/uploads/2024/01/ai-video-enhancer-utool-5.webp",
+      "https://liteapks.com/wp-content/uploads/2024/01/ai-video-enhancer-utool-6.webp"
+    ]
   },
-  {
-    "nama": "BitTV",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787686347/BitTV-MOD-APK.png",
-    "link": "https://sfile.co/AKkD5hWR6VM",
-    "up": "23-08-2026",
-    "kategori": "streaming"
+  "bittv": {
+    "banner_apk": "https://i0.wp.com/apkmb.com/wp-content/uploads/2026/05/BitTV-Mod-APK-1.webp?resize=768%2C432&ssl=1",
+    "deskripsi_apk": "BitTV adalah aplikasi streaming yang menyediakan koleksi film, serial TV, dan anime gratis dengan kualitas HD, subtitle multibahasa, serta pembaruan konten berkala.",
+    "ss_apk": [
+      "https://appteka.store/screenshot/9f3077fccd85049c78e520af88e5b3ca9c94e2d3.jpg?e=1791417600&s=N45h-UeZYLiHQDjEmYFAHw",
+      "https://appteka.store/screenshot/27d507996ffdf11853196c34913b3949c9210970.jpg?e=1791417600&s=VHlx1onXKDH_hu80wxZxNg",
+      "https://appteka.store/screenshot/1ebc3485b48817e34f31891667aa8bc0c8cb3e13.jpg?e=1791417600&s=jRI-gG_bxse5wKsgV8q_Cg"
+    ]
   },
-  {
-    "nama": "DramaBox",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787686747/dramabox-stream-drama-shorts-150x150.webp",
-    "link": "https://safefileku.com/download/4Mz7cxBDRT3wtwaq",
-    "up": "23-08-2026",
-    "kategori": "streaming"
+  "dramabox": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2026/04/dramabox-stream-drama-shorts-1.webp",
+    "deskripsi_apk": "DramaBox adalah platform streaming drama pendek vertikal dengan ribuan judul eksklusif, episode singkat berdurasi sekitar satu menit, dan pembaruan harian untuk berbagai genre populer.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2026/04/dramabox-stream-drama-shorts-2.webp",
+      "https://liteapks.com/wp-content/uploads/2026/04/dramabox-stream-drama-shorts-3.webp",
+      "https://liteapks.com/wp-content/uploads/2026/04/dramabox-stream-drama-shorts-4.webp",
+      "https://liteapks.com/wp-content/uploads/2026/04/dramabox-stream-drama-shorts-5.webp",
+      "https://liteapks.com/wp-content/uploads/2026/04/dramabox-stream-drama-shorts-6.webp"
+    ]
   },
-  {
-    "nama": "Spotify Gold",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787688710/d76f75e81d13fcb3756161cb3b12481d.jpg",
-    "link": "https://sfile.co/xO6jD20eqVW",
-    "up": "23-08-2026",
-    "kategori": "music"
+  "spotify-gold": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2024/09/photo_2024-09-21_00-29-35.jpg",
+    "deskripsi_apk": "Spotify Gold adalah versi modifikasi dari aplikasi Spotify yang membuka fitur premium seperti bebas iklan, kualitas audio tinggi, dan unduhan offline tanpa perlu berlangganan.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2024/09/spotify-x-5.png",
+      "https://liteapks.com/wp-content/uploads/2024/09/spotify-x-4.png",
+      "https://liteapks.com/wp-content/uploads/2024/09/spotify-x-3.png",
+      "https://liteapks.com/wp-content/uploads/2024/09/spotify-x-2.png",
+      "https://liteapks.com/wp-content/uploads/2024/09/spotify-x-1.png",
+      "https://liteapks.com/wp-content/uploads/2024/09/spotify-x-6.png"
+    ]
   },
-  {
-    "nama": "Stiker.ly",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787690875/sticker-ly-sticker-maker-150x150.png",
-    "link": "https://sfile.co/vdT9AxRoit5",
-    "up": "26-08-2026",
-    "kategori": "tools"
+  "stiker-ly": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2023/02/sticker-ly-sticker-maker-1.jpg",
+    "deskripsi_apk": "Stiker.ly adalah aplikasi pembuat stiker WhatsApp yang memungkinkan pengguna membuat stiker kustom dari foto, video, atau teks dengan mudah, dilengkapi koleksi stiker siap pakai.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2023/02/sticker-ly-sticker-maker-2.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/02/sticker-ly-sticker-maker-3.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/02/sticker-ly-sticker-maker-4.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/02/sticker-ly-sticker-maker-5.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/02/sticker-ly-sticker-maker-6.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/02/sticker-ly-sticker-maker-7.jpg"
+    ]
   },
-  {
-    "nama": "MovieBoxTV",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787691860/cropped-moviebox-icon.webp",
-    "link": "https://sfile.co/wV8L3pcyYl3",
-    "up": "30-08-2026",
-    "kategori": "streaming"
+  "movieboxtv": {
+    "banner_apk": "",
+    "deskripsi_apk": "MovieBoxTV adalah aplikasi streaming film, serial TV, dan anime gratis dengan koleksi besar, kualitas HD, subtitle multibahasa, serta fitur unduhan offline untuk ditonton tanpa koneksi internet.",
+    "ss_apk": []
   },
-  {
-    "nama": "Wink",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787703609/Proyek_Baru_73_92C7FD2.png",
-    "link": "https://sfile.co/yXW9NKTuBr7",
-    "up": "25-07-2026",
-    "kategori": "editing"
+  "wink": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2023/08/wink-video-retouching-tool.png",
+    "deskripsi_apk": "Wink adalah aplikasi penyunting foto dan video berbasis kecerdasan buatan (AI) yang dirancang untuk memperbaiki kualitas visual wajah dan tubuh secara instan, mulai dari mempertajam video buram dan meratakan tekstur kulit, hingga merubah bentuk tubuh dan menghapus objek asing dengan hasil yang natural dan mudah digunakan oleh pemula.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2023/08/wink-1.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/08/wink-2.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/08/wink-3.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/08/wink-4.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/08/wink-5.jpg",
+      "https://liteapks.com/wp-content/uploads/2023/08/wink-6.jpg"
+    ]
   },
-  {
-    "nama": "Mikunime",
-    "logo": "https://res.cloudinary.com/orqpplhj/image/upload/v1787699367/mikunime-nonton-anime-logo.webp",
-    "link": "https://sfile.co/8npnKahJid0",
-    "up": "18-08-2026",
-    "kategori": "streaming"
+  "mikunime": {
+    "banner_apk": "https://lh3.googleusercontent.com/r5Wb0Vt3jT0ON7ymPVvXZRD1k_WR5zmMSKas_UuL93CLzc2pkvkzbyGTFY15QnRHfS5V4DQoc5VDzEAubNSUmtIi53V8whGGdC20=h200-rw",
+    "deskripsi_apk": "Mikunime adalah aplikasi streaming anime gratis dengan koleksi judul lengkap, subtitle Indonesia, pembaruan episode terbaru, dan kualitas video jernih untuk ditonton kapan saja.",
+    "ss_apk": [
+      "https://lh3.googleusercontent.com/3aFXWucShQNXE2wm45x9MJlvSE8S5d1H0Sf4-CD9c3XuEC8Ak-cPNpWB4Tb0aRZaP3YsFE5JEu1zIAcRO7G5VcAM2vP5JTYE5dBk=h200-rw",
+      "https://lh3.googleusercontent.com/H5kZemeGw80caAVO5r2FIKCLrpFhIea_l7I0m78ZJEeJ9ZDwKVwGaFax4y5-JgZFqsvbFObc0jFizzhQJ2KEClic_p5vbP6fFqA=h200-rw",
+      "https://lh3.googleusercontent.com/80ahOwL-u3nQvff2F4yMTtQvhRMoUl_OmCMf6UL_VhbE2JNcXxg821wJssKZmsdPvpYZS_oZ0uuhypU6mVrgEECkjVHSE1TU588JaQ=h200-rw"
+    ]
   }
-]
+}
