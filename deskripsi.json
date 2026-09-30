@@ -304,7 +304,7 @@
       "https://liteapks.com/wp-content/uploads/2022/12/bilibili-2.jpg",
       "https://liteapks.com/wp-content/uploads/2022/12/bilibili-3.jpg",
       "https://liteapks.com/wp-content/uploads/2022/12/bilibili-4.jpg",
-       "https://liteapks.com/wp-content/uploads/2022/12/bilibili-5.jpg",
+      "https://liteapks.com/wp-content/uploads/2022/12/bilibili-5.jpg",
       "https://liteapks.com/wp-content/uploads/2022/12/bilibili-6.jpg",
       "https://liteapks.com/wp-content/uploads/2022/12/bilibili-7.jpg"
     ]
@@ -463,6 +463,29 @@
       "https://lh3.googleusercontent.com/3aFXWucShQNXE2wm45x9MJlvSE8S5d1H0Sf4-CD9c3XuEC8Ak-cPNpWB4Tb0aRZaP3YsFE5JEu1zIAcRO7G5VcAM2vP5JTYE5dBk=h200-rw",
       "https://lh3.googleusercontent.com/H5kZemeGw80caAVO5r2FIKCLrpFhIea_l7I0m78ZJEeJ9ZDwKVwGaFax4y5-JgZFqsvbFObc0jFizzhQJ2KEClic_p5vbP6fFqA=h200-rw",
       "https://lh3.googleusercontent.com/80ahOwL-u3nQvff2F4yMTtQvhRMoUl_OmCMf6UL_VhbE2JNcXxg821wJssKZmsdPvpYZS_oZ0uuhypU6mVrgEECkjVHSE1TU588JaQ=h200-rw"
+    ]
+  },
+  "duolingo": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2022/04/duolingo-language-lessons-1.png",
+    "deskripsi_apk": "Duolingo adalah aplikasi pembelajaran bahasa asing populer berbasis gamifikasi yang menawarkan pelajaran interaktif dan menyenangkan untuk menguasai puluhan bahasa dunia (seperti Inggris, Jepang, Korea, dan Prancis) melalui latihan singkat, sistem poin, serta tantangan harian yang cocok untuk pemula maupun tingkat lanjut.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2022/04/duolingo-language-lessons-2.png",
+      "https://liteapks.com/wp-content/uploads/2022/04/duolingo-language-lessons-3.png",
+      "https://liteapks.com/wp-content/uploads/2022/04/duolingo-language-lessons-4.png",
+      "https://liteapks.com/wp-content/uploads/2022/04/duolingo-language-lessons-5.png",
+      "https://liteapks.com/wp-content/uploads/2022/04/duolingo-language-lessons-6.png",
+      "https://liteapks.com/wp-content/uploads/2022/04/duolingo-language-lessons-7.png"
+    ]
+  },
+  "truecaller": {
+    "banner_apk": "https://liteapks.com/wp-content/uploads/2022/04/truecaller-caller-id-block-1.png",
+    "deskripsi_apk": "Truecaller adalah aplikasi identifikasi penelepon dan pemblokir spam populer yang membantu mendeteksi nomor asing yang menghubungi, mengenali pengirim pesan, serta mencegah panggilan penipuan atau telemarketing secara otomatis agar komunikasi menjadi lebih aman dan nyaman.",
+    "ss_apk": [
+      "https://liteapks.com/wp-content/uploads/2022/12/truecaller-1.png",
+      "https://liteapks.com/wp-content/uploads/2022/12/truecaller-2.png",
+      "https://liteapks.com/wp-content/uploads/2022/12/truecaller-3.png",
+      "https://liteapks.com/wp-content/uploads/2022/12/truecaller-4.png",
+      "https://liteapks.com/wp-content/uploads/2022/12/truecaller-5.png"
     ]
   }
 }
