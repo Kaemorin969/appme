@@ -382,5 +382,21 @@
     "link": "https://sfile.co/8npnKahJid0",
     "up": "2026-08-18",
     "kategori": "streaming"
+  },
+  {
+    "app_id": "duolingo",
+    "nama": "Duolingo",
+    "logo": "https://liteapks.com/wp-content/uploads/2022/04/duolingo-language-lessons-150x150.png",
+    "link": "https://sfile.co/VgeawfSAfz1",
+    "up": "2026-09-30",
+    "kategori": "education"
+  },
+  {
+    "app_id": "truecaller",
+    "nama": "Truecaller",
+    "logo": "https://liteapks.com/wp-content/uploads/2022/04/truecaller-caller-id-block-150x150.png",
+    "link": "https://sfile.co/9sdYzFjvu1v",
+    "up": "2026-09-30",
+    "kategori": "communication"
   }
 ]
